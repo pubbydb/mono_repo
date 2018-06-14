@@ -1,0 +1,6 @@
+[submodule "proto"]
+	path = proto
+	url = https://github.com/pubbydb/proto.git
+[submodule "pubbydb"]
+	path = pubbydb
+	url = https://github.com/pubbydb/pubbydb.git

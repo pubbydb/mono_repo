@@ -3,7 +3,7 @@
   <component name="ProtobufSettings">
     <option name="includePaths">
       <list>
-        <option value="$PROJECT_DIR$/pubbydb/src/proto" />
+        <option value="$PROJECT_DIR$" />
       </list>
     </option>
   </component>
